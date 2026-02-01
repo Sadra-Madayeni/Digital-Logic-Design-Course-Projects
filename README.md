@@ -1,6 +1,22 @@
-# 7-Segment Decoder Design (SystemVerilog)
+## 📂 Projects Overview
 
-This repository contains the design and implementation of a **Seven Segment Decoder** using SystemVerilog. The project was developed as part of the **Digital Logic Circuits** course at the **University of Tehran**.
+| Assignment | Project Name | Description | Key Concepts |
+| :--- | :--- | :--- | :--- |
+| **CA1** | **7-Segment Decoder** | Design of a BCD to 7-Segment decoder. | Combinational Logic, K-Maps, Gate-Level Delay |
+| **CA2** | **ALU Design** | A 4-bit Arithmetic Logic Unit with One-Hot encoding. | Modular Design, CLA Adder, Comparator, 2's Complement |
+| **CA3** | **Grain Stream Cipher** | Implementation of a PRNG (Grain v1) for cryptography. | Sequential Logic, Latches/Flip-Flops, LFSR, NFSR |
+| **CA4** | **Matrix Determinant** | A hardware accelerator for 2x2 and 3x3 matrix determinants. | Datapath & Control Unit (FSM), Memory Interface, Hierarchical Design |
+
+## 🛠 Tools & Technologies
+* **HDL:** SystemVerilog / Verilog
+* **Simulation:** Siemens EDA ModelSim
+* **Methodology:** Structural (Gate-Level) & Behavioral Modeling
+
+
+
+# 7-Segment Decoder Design (CA1)
+
+This project contains the design and implementation of a **Seven Segment Decoder** using SystemVerilog. The project was developed as part of the **Digital Logic Circuits** course at the **University of Tehran**.
 
 The decoder converts a 4-bit Binary Coded Decimal (BCD) input (0-9) into a 7-bit output to drive a standard 7-segment display.
 
@@ -90,7 +106,7 @@ The design was verified using **ModelSim**. The testbench (`Top_Module_tb`) vali
 
 # Grain Stream Cipher Implementation (CA3)
 
-This repository contains the design and implementation of the **Grain Pseudo-Random Number Generator (PRNG)** using **SystemVerilog**. This project was developed as Computer Assignment 3 (CA3) for the **Digital Logic Circuits** course at the **University of Tehran**.
+This project contains the design and implementation of the **Grain Pseudo-Random Number Generator (PRNG)** using **SystemVerilog**. This project was developed as Computer Assignment 3 (CA3) for the **Digital Logic Circuits** course at the **University of Tehran**.
 
 The project follows a bottom-up design approach, starting from basic memory elements (Latches) and building up to a complex Stream Cipher architecture used in cryptography.
 
@@ -133,7 +149,7 @@ The design was verified using **ModelSim**.
 
 # Matrix Determinant Calculator (CA4)
 
-This repository contains the final Computer Assignment (CA4) for the **Digital Logic Circuits** course at the **University of Tehran**. The project focuses on **Sequential Circuit Design**, separating the system into a **Datapath** and a **Control Unit (FSM)** to calculate matrix determinants.
+This project contains the final Computer Assignment (CA4) for the **Digital Logic Circuits** course at the **University of Tehran**. The project focuses on **Sequential Circuit Design**, separating the system into a **Datapath** and a **Control Unit (FSM)** to calculate matrix determinants.
 
 ## 📌 Project Overview
 
