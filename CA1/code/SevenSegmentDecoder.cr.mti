@@ -1,0 +1,22 @@
+{D:/terme 3/MM/CAVL/Behavioral.sv} {1 {vlog -work work -sv -stats=none {D:/terme 3/MM/CAVL/Behavioral.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module sevenSegmentDecoderBehavioral
+
+Top level modules:
+	sevenSegmentDecoderBehavioral
+
+} {} {}} {D:/terme 3/MM/CAVL/StructuralTest.sv} {1 {vlog -work work -sv -stats=none {D:/terme 3/MM/CAVL/StructuralTest.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module StructuralTestBench
+
+Top level modules:
+	StructuralTestBench
+
+} {} {}} {D:/terme 3/MM/CAVL/BehavioralTest.sv} {1 {vlog -work work -sv -stats=none {D:/terme 3/MM/CAVL/BehavioralTest.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module behavioralTestBench
+
+Top level modules:
+	behavioralTestBench
+
+} {} {}}

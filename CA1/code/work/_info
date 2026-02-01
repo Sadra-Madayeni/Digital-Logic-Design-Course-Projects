@@ -1,0 +1,115 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/terme 3/MM/sevenSegmentDecoder
+vbehavioralTestBench
+Z0 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z1 !s110 1730662256
+!i10b 1
+!s100 j4b01c@A^O_HKDIG=c?Le0
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+Ij^MEK<@[37hX1RcdKg5cY0
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+S1
+Z4 dD:/terme 3/MM/CAVL
+w1730492328
+8D:/terme 3/MM/CAVL/BehavioralTest.sv
+FD:/terme 3/MM/CAVL/BehavioralTest.sv
+!i122 18
+Z5 L0 2 28
+Z6 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z7 !s108 1730662256.000000
+!s107 D:/terme 3/MM/CAVL/BehavioralTest.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/terme 3/MM/CAVL/BehavioralTest.sv|
+!i113 1
+Z8 o-work work -sv
+Z9 tCvgOpt 0
+nbehavioral@test@bench
+vsevenSegmentDecoder
+R0
+R1
+!i10b 1
+!s100 T>d4619KOXADIOj5B<IT<1
+R2
+IggNY3FU_Hde>`SjNC`[dU1
+R3
+S1
+R4
+w1730662253
+8D:/terme 3/MM/CAVL/Structural.sv
+FD:/terme 3/MM/CAVL/Structural.sv
+!i122 17
+L0 2 31
+R6
+r1
+!s85 0
+31
+R7
+!s107 D:/terme 3/MM/CAVL/Structural.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/terme 3/MM/CAVL/Structural.sv|
+!i113 1
+R8
+R9
+nseven@segment@decoder
+vsevenSegmentDecoderBehavioral
+R0
+R1
+!i10b 1
+!s100 ;AeMNP_7Oi9XXhY?1n^EY2
+R2
+Ig]ZPTJPIn95H9YczGXVJg0
+R3
+S1
+R4
+w1730492246
+8D:/terme 3/MM/CAVL/Behavioral.sv
+FD:/terme 3/MM/CAVL/Behavioral.sv
+!i122 16
+L0 2 13
+R6
+r1
+!s85 0
+31
+R7
+!s107 D:/terme 3/MM/CAVL/Behavioral.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/terme 3/MM/CAVL/Behavioral.sv|
+!i113 1
+R8
+R9
+nseven@segment@decoder@behavioral
+vStructuralTestBench
+R0
+!s110 1730662257
+!i10b 1
+!s100 WZV04m_nbcC7U]kMABT9Z1
+R2
+IiCi<X]8Le`P1=GUA]@2am1
+R3
+S1
+R4
+w1730492225
+8D:/terme 3/MM/CAVL/StructuralTest.sv
+FD:/terme 3/MM/CAVL/StructuralTest.sv
+!i122 19
+R5
+R6
+r1
+!s85 0
+31
+!s108 1730662257.000000
+!s107 D:/terme 3/MM/CAVL/StructuralTest.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/terme 3/MM/CAVL/StructuralTest.sv|
+!i113 1
+R8
+R9
+n@structural@test@bench
